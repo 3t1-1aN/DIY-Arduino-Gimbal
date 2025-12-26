@@ -2,7 +2,8 @@
 
 **A 3D-printed gimbal platform stabilized using an Arduino with MPU-6050 gyroscope-accelerometer for dynamic motion control.**
 
-![Arduino Gimbal Screenshot](https://github.com/user-attachments/assets/ddef42ae-16ce-4202-9915-f62fda0016c0)
+<img width="525" height="766" alt="gimbal" src="https://github.com/user-attachments/assets/4855a180-b135-4776-a866-13fc9c1ae9e4" />
+
 
 ## Project Overview
 
